@@ -1,4 +1,4 @@
 Cyn
 ===
 
-Cyn is a language allows you to quickly create a IoT application. 
+Cyn is a language that can help you quickly build a IoT application. 
